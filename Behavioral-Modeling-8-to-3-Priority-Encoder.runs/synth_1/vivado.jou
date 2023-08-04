@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Nov 11 15:07:22 2022
+# Process ID: 24180
+# Current directory: /home/mohsin/PLD/Lab3_4/Lab3_4.runs/synth_1
+# Command line: vivado -log Lab3_4verilog.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Lab3_4verilog.tcl
+# Log file: /home/mohsin/PLD/Lab3_4/Lab3_4.runs/synth_1/Lab3_4verilog.vds
+# Journal file: /home/mohsin/PLD/Lab3_4/Lab3_4.runs/synth_1/vivado.jou
+# Running On: mohSin-Predator-PH315-53, OS: Linux, CPU Frequency: 2600.000 MHz, CPU Physical cores: 6, Host memory: 16599 MB
+#-----------------------------------------------------------
+source Lab3_4verilog.tcl -notrace
