@@ -5,7 +5,7 @@
 // 
 // Create Date: 08.10.2021 03:26:56
 // Design Name: 
-// Module Name: Lab3_4verilog
+// Module Name: Behavioral_Modeling_8_to_3_Priority_Encoder
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
